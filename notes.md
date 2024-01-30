@@ -1,5 +1,19 @@
 # Notes
 
+## Tools
+
+Prototyping
+- Figma
+- Pencil & Paper / Tablet
+
+Circuit Design
+- Cadence Virtuoso
+
+Collaboration
+- GitHub
+- Discord
+
+
 ## Timeline
 
 Due Dates:
@@ -21,6 +35,8 @@ Due Dates:
 			- [ ] SC, RZ is 1-bit register
 			- [ ] RM
 			- [ ] CLK
+   			- [ ] ALU
+      			- [ ] PC Counter
 			- [ ] Unknowns
 				- [ ] TEMP
 				- [ ] P_OUT (register? d flip flop?)
