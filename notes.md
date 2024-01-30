@@ -25,9 +25,9 @@ Due Dates:
 
 - Prep:
 	- [ ] Find or create schematics or HDL code for each component in the processor 
-		- [v] Go to Kandasamy for help if needed
-			- [v] Ask about Unknown parts
-			- [v] Ask if the intermediate registers like TEMP and JUMP ADDR can be ignored in design diagram
+		- [x] Go to Kandasamy for help if needed
+			- [x] Ask about Unknown parts
+			- [x] Ask if the intermediate registers like TEMP and JUMP ADDR can be ignored in design diagram
 		- Parts:
 			- [ ] PC Control
 			- [ ] RA, RB, RD, RJ, R_DEST are 3-bit registers
@@ -36,7 +36,6 @@ Due Dates:
 			- [ ] RM
 			- [ ] CLK
    			- [ ] ALU
-      			- [ ] PC Counter
 			- [ ] Unknowns
 				- [ ] TEMP
 				- [ ] P_OUT (register? d flip flop?)
