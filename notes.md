@@ -19,15 +19,15 @@ Collaboration
 Due Dates:
 - January 30:	5min Presentation of description of design and implementation
 - February 20:	HSPICE simulations verifying functionality (schematic)
-- March 5:		Final report which should include Specification, design, testing strategies & results, areas for optimization, layout & schematics
+- March 5:	Final report which should include Specification, design, testing strategies & results, areas for optimization, layout & schematics
 
 ## Tasks
 
 - Prep:
 	- [ ] Find or create schematics or HDL code for each component in the processor 
-		- [ ] Go to Kandasamy for help if needed
-			- [ ] Ask about Unknown parts
-			- [ ] Ask if the intermediate registers like TEMP and JUMP ADDR can be ignored in design diagram
+		- [v] Go to Kandasamy for help if needed
+			- [v] Ask about Unknown parts
+			- [v] Ask if the intermediate registers like TEMP and JUMP ADDR can be ignored in design diagram
 		- Parts:
 			- [ ] PC Control
 			- [ ] RA, RB, RD, RJ, R_DEST are 3-bit registers
