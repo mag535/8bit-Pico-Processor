@@ -45,7 +45,6 @@ Due Dates:
 
 Other:
 - [Pico Processor in VHDL](https://www.researchgate.net/publication/259864953_Pico_Processor_Using_Verilog_HDL)
-	- [file](/Xiong_ASEE09_paper_Veerapa_Vignesh5.pdf)
 	- Pico processor is scaled down version of RISC processor
 	- pipelined, 5 stages
 - [8-bit Processing](https://en.wikipedia.org/wiki/8-bit_computing)
