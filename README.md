@@ -11,3 +11,9 @@ For now whenever you make a new file in the shared library you need to go to the
 
 `chmod -R 770 <cell name>`  
 `chgrp -R ECE472_572 ./<cell name>`
+
+## Standards
+
+1. All variables in Cadence Virtuoso must be capitalized
+2. The clock variable is spelled `CLK`
+3. Only use the OSU library for standard cells
