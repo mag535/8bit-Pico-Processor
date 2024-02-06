@@ -63,3 +63,18 @@ Other:
 	- Pico processor is scaled down version of RISC processor
 	- pipelined, 5 stages
 - [8-bit Processing](https://en.wikipedia.org/wiki/8-bit_computing)
+
+
+## Logs
+
+### February 6, 2024
+
+What we did
+- Added standards to [README.md](/README.md) for making schematics and layouts so that our designs don't conflict
+- Presented first design draft
+- Decided on doing a pipelined 8-bit Pico Processor
+
+What we need to do:
+- [ ] Adjust our cells to first height of OSU library's standard cells.
+- [ ] Create a floorplan to determine how everything is connected and be able to divide up the work.
+
