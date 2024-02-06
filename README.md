@@ -17,3 +17,4 @@ For now whenever you make a new file in the shared library you need to go to the
 1. All variables in Cadence Virtuoso must be capitalized
 2. The clock variable is spelled `CLK`
 3. Only use the OSU library for standard cells
+4. Use 2's Complement for ALU (Professor's note)
