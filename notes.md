@@ -3,7 +3,7 @@
 ## Tools
 
 Prototyping
-- Figma
+- Drawio
 - Pencil & Paper / Tablet
 
 Circuit Design
