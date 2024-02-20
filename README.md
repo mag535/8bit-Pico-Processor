@@ -27,10 +27,10 @@ For now whenever you make a new file in the shared library you need to go to the
 First, Follow steps [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) all the way to the end to setup
 SSH keys for Github.
 
-Next, to add your changes to the remote repo, use these commmads:
-  `git add -all`
-  `git commit -m "YOUR MESSAGE HERE"`
-  `git push origin HEAD:main`
-The `--all` tag is because Xunil has Git version 1, which requires this. Git version 2 doesn't.
+Next, to add your changes to the remote repo, use these commmads:  
+  `git add -all`  
+  `git commit -m "YOUR MESSAGE HERE"`  
+  `git push origin HEAD:main`  
+The `--all` tag is because Xunil has Git version 1, which requires this. Git version 2 doesn't.  
 The `HEAD:main` is also because Xunil has an old version of Git. Just using `main` like you would for version 2 will cause an error.
 
