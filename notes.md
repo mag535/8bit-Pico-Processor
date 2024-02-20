@@ -88,6 +88,8 @@ What we did:
     - Preeti C: Demuxes
     - Leo C: Register Bank
 - Finished schematics for Registers and ALU
+- Finally able to push changes from Xunil
+    - Had to clone repo with SSH link rather than HTTP...
 
 What ew need to do:
 - [ ] Complete testing for Registers and ALU
