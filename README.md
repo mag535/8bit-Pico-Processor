@@ -19,3 +19,4 @@ For now whenever you make a new file in the shared library you need to go to the
 3. Only use the OSU library for standard cells
 4. Use 2's Complement for ALU (Professor's note)
 5. Use 1fF Capacitor as load. Use 1fF per gate the output is connected to for testing
+6. The `CLK` should have a 10ns period
