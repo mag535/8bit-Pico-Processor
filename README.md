@@ -29,9 +29,9 @@ SSH keys for Github.
 
 Next, to add your changes to the remote repo, use these commmads:  
 
-    `git add -all`  
-    `git commit -m "YOUR MESSAGE HERE"`  
-    `git push origin HEAD:main`
+    git add -all  
+    git commit -m "YOUR MESSAGE HERE"  
+    git push origin HEAD:main
     
 The `--all` tag is because Xunil has Git version 1, which requires this. Git version 2 doesn't.  
 The `HEAD:main` is also because Xunil has an old version of Git. Just using `main` like you would for version 2 will cause an error.
