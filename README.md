@@ -28,7 +28,7 @@ First, Follow steps [here](https://docs.github.com/en/authentication/connecting-
 SSH keys for Github.
 
 Next, to add your changes to the remote repo, use these commmads:  
-  `git add -all`  
+  \t`git add -all`  
   `git commit -m "YOUR MESSAGE HERE"`  
   `git push origin HEAD:main`  
 The `--all` tag is because Xunil has Git version 1, which requires this. Git version 2 doesn't.  
