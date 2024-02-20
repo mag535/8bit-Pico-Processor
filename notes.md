@@ -78,3 +78,20 @@ What we need to do:
 - [ ] Adjust our cells to first height of OSU library's standard cells.
 - [ ] Create a floorplan to determine how everything is connected and be able to divide up the work.
 
+
+### February 20, 2024
+
+What we did:
+- Divide up work:
+    - Melissa G: 1, 3, 8 bit Registers
+    - Mike W: ALU
+    - Preeti C: Demuxes
+    - Leo C: Register Bank
+- Finished schematics for Registers and ALU
+
+What ew need to do:
+- [ ] Complete testing for Registers and ALU
+- [ ] Create and test Demuxed
+- [ ] Create and test Register Bank
+- [ ] Figure out how the instructions for this processor will work
+
