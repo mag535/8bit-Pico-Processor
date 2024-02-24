@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      mlw375
 HostName                       xunil-03.coe.drexel.edu
-ProcessIdentifier              30649
-ProcessCreationTime_UTC        1708442057
-ProcessCreationTime_Readable   Tue Feb 20 10:14:17 2024 EST
+ProcessIdentifier              32193
+ProcessCreationTime_UTC        1708556274
+ProcessCreationTime_Readable   Wed Feb 21 17:57:54 2024 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/ECE472_572/8bitPicoProcessor/ALU/schematic/sch.oa.cdslck
-TimeEditLocked                 Tue Feb 20 10:28:28 2024 EST
+FilePathUsedToEditLock         /home/ECE472_572/8bitPicoProcessor/8bit_adder/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Feb 21 18:00:02 2024 EST
