@@ -29,18 +29,18 @@ Due Dates:
 			- [x] Ask about Unknown parts
 			- [x] Ask if the intermediate registers like TEMP and JUMP ADDR can be ignored in design diagram
 		- Parts:
-			- [ ] PC Control
-			- [ ] RA, RB, RD, RJ, R_DEST are 3-bit registers
-			- [ ] DISP and CONST, RX and RY, D_DEST are 8-bit registers
-			- [ ] SC, RZ is 1-bit register
-			- [ ] RM
+			- [x] PC Control
+			- [x] RA, RB, RD, RJ, R_DEST are 3-bit registers
+			- [x] DISP and CONST, RX and RY, D_DEST are 8-bit registers
+			- [x] SC, RZ is 1-bit register
+			- [x] RM
 			- [ ] CLK
-   			- [ ] ALU
-			- [ ] Unknowns
-				- [ ] TEMP
-				- [ ] P_OUT (register? d flip flop?)
-				- [ ] PORT ADDR & PORT DATA
-				- [ ] DATA MEMORY (256 Bytes)
+   			- [x] ALU
+			- [x] Unknowns
+				- [x] TEMP
+				- [x] P_OUT (register? d flip flop?)
+				- [x] PORT ADDR & PORT DATA
+				- [x] DATA MEMORY (256 Bytes)
 
 - Specification:
 	- Use existing design
@@ -75,8 +75,8 @@ What we did
 - Decided on doing a pipelined 8-bit Pico Processor
 
 What we need to do:
-- [ ] Adjust our cells to first height of OSU library's standard cells.
-- [ ] Create a floorplan to determine how everything is connected and be able to divide up the work.
+- [x] Adjust our cells to first height of OSU library's standard cells.
+- [x] Create a floorplan to determine how everything is connected and be able to divide up the work.
 
 
 ### February 20, 2024
@@ -92,8 +92,14 @@ What we did:
     - Had to clone repo with SSH link rather than HTTP...
 
 What ew need to do:
-- [ ] Complete testing for Registers and ALU
-- [ ] Create and test Demuxed
-- [ ] Create and test Register Bank
-- [ ] Figure out how the instructions for this processor will work
+- [x] Complete testing for Registers and ALU
+- [x] Create and test Demuxed
+- [x] Create and test Register Bank
+- [x] Figure out how the instructions for this processor will work
+
+
+### March 12, 2024
+
+Instructions for this 8-bit Pico Processor will follow the RISC-V instruction format found ![here](RISC-V-instructions.png)
+
 
